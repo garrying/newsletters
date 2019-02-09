@@ -6,3 +6,5 @@ before_script:
   - npm install -g npm
   - npm install -g markdown-link-check
 script: markdown-link-check ./README.md
+notifications:
+  email: false
