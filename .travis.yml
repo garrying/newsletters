@@ -1,0 +1,5 @@
+dist: xenial
+language: node_js
+before_script:
+  - npm install -g markdown-link-check
+script: markdown-link-check ./README.md
