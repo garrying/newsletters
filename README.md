@@ -16,6 +16,7 @@
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
 - [James Bridle: Occasional Newsletter](https://tinyletter.com/jamesbridle)
 - [Kyle Chayka Industries](https://tinyletter.com/chaykak)
+- [Lagniappe](https://tinyletter.com/nicolasnova)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Metafoundry](https://tinyletter.com/metafoundry)
