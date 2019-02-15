@@ -23,6 +23,7 @@
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
 - [Other Valleys](https://tinyletter.com/othervalleys)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
+- [sentences](https://tinyletter.com/darcie)
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
 - [speculative nonfiction](https://tinyletter.com/hypotext)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
