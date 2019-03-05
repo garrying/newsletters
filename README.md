@@ -42,6 +42,7 @@
 - [sentences](https://tinyletter.com/darcie)
 - [Sentiers](https://sentiers.media)
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
+- [Solastalgia Reader](https://tinyletter.com/solastalgia)
 - [speculative nonfiction](https://tinyletter.com/hypotext)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
 - [Strange Transmissions](https://tinyletter.com/StrangeTelemetry)
