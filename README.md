@@ -31,6 +31,7 @@
     + [Substack](https://kylechayka.substack.com)
 - [Lagniappe](https://tinyletter.com/nicolasnova)
 - [Laura Olin](https://www.lauraolin.com/newsletter)
+- [Leah Letter](https://us14.list-manage.com/subscribe?u=7d9a179d9349586da8d1fd80f&id=47c259ca85)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Metafoundry](https://tinyletter.com/metafoundry)
