@@ -17,6 +17,7 @@
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [Desk Lunch](https://www.desklunchnewsletter.com)
 - [Disturbances](https://tinyletter.com/hautepop)
+- [Dream Machine](https://buttondown.email/dream-machine)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
 - [Imperica](https://www.imperica.com/en/newsletter)
