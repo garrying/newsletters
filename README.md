@@ -36,6 +36,7 @@
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Metafoundry](https://tinyletter.com/metafoundry)
+- [New Work](https://tinyletter.com/lizpelly)
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
 - [Orbital Operations](http://orbitaloperations.com)
 - [Other Valleys](https://tinyletter.com/othervalleys)
