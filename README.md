@@ -38,6 +38,7 @@
 - [Metafoundry](https://tinyletter.com/metafoundry)
 - [New Work](https://tinyletter.com/lizpelly)
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
+- [The Orbital Index](https://orbitalindex.com)
 - [Orbital Operations](http://orbitaloperations.com)
 - [Other Valleys](https://tinyletter.com/othervalleys)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
