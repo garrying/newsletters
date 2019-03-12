@@ -14,6 +14,7 @@
 - [Border Studies](https://tinyletter.com/samanthaculp)
 - [Breaking Smart](https://breakingsmart.com)
 - [Clearletter](https://tinyletter.com/clearleft)
+- [Close](https://tinyletter.com/close)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [Desk Lunch](https://www.desklunchnewsletter.com)
 - [Disturbances](https://tinyletter.com/hautepop)
