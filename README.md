@@ -3,6 +3,7 @@
 
 - [5it](https://tinyletter.com/5it)
 - [6](https://tinyletter.com/vruba)
+- [A Kind of Indulgence](https://tinyletter.com/jilnotjill)
 - [a sketchbook](https://tinyletter.com/cassiem)
 - [A Working Library](https://tinyletter.com/aworkinglibrary)
 - [Adventures in Typography](https://buttondown.email/robinrendle)
