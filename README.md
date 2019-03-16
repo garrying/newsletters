@@ -13,6 +13,7 @@
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Avery Shorts](http://www.averyshorts.com)
 - [Border Studies](https://tinyletter.com/samanthaculp)
+- [Brain Dump](https://mikeisaac.substack.com)
 - [Breaking Smart](https://breakingsmart.com)
 - [Clearletter](https://tinyletter.com/clearleft)
 - [Close](https://tinyletter.com/close)
