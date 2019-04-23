@@ -65,5 +65,6 @@
 - [This will take time](https://tinyletter.com/thiswilltaketime)
 - [Thresholds](https://tinyletter.com/hannah_e_gregory)
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
+- [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
 - [WendiLetter](https://tinyletter.com/wendiletter)
 - [Year of the Meteor](https://buttondown.email/year-of-the-meteor)
