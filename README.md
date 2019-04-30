@@ -12,6 +12,7 @@
     + [Substack](https://jomc.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Avery Shorts](http://www.averyshorts.com)
+- [Biota](http://www.iambiota.com)
 - [Border Studies](https://tinyletter.com/samanthaculp)
 - [Brain Dump](https://mikeisaac.substack.com)
 - [Breaking Smart](https://breakingsmart.com)
