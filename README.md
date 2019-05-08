@@ -62,6 +62,7 @@
 - [The Cabinet of Curious Cargo](https://tinyletter.com/the-cabinet)
 - [the collected ahp](https://annehelen.substack.com)
 - [The Creative Independent](https://thecreativeindependent.com)
+- [The Training Commission](https://tinyletter.com/The_Training_Commission)
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
 - [This week's work](https://tinyletter.com/rebeccaonion)
 - [This will take time](https://tinyletter.com/thiswilltaketime)
