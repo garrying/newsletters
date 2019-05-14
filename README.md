@@ -67,7 +67,7 @@
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
 - [This week's work](https://tinyletter.com/rebeccaonion)
 - [This will take time](https://tinyletter.com/thiswilltaketime)
-- [Thresholds](https://tinyletter.com/hannah_e_gregory)
+- [Thresholds](https://tinyletter.com/hnnh_g)
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
 - [WendiLetter](https://tinyletter.com/wendiletter)
