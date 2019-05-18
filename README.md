@@ -43,6 +43,7 @@
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Metafoundry](https://tinyletter.com/metafoundry)
 - [New Work](https://tinyletter.com/lizpelly)
+- [nothing here](https://nothing.substack.com)
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
 - [The Orbital Index](https://orbitalindex.com)
 - [Orbital Operations](http://orbitaloperations.com)
