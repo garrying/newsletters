@@ -21,6 +21,7 @@
 - [Clearletter](https://tinyletter.com/clearleft)
 - [Close](https://tinyletter.com/close)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
+- [dellsystem](https://dellsystem.substack.com)
 - [Desk Lunch](https://www.desklunchnewsletter.com)
 - [Disturbances](https://tinyletter.com/hautepop)
 - [Dream Machine](https://buttondown.email/dream-machine)
