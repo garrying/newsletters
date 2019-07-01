@@ -55,6 +55,7 @@
 - [Sentiers](https://sentiers.media)
 - [Signal Problems](https://signalproblems.substack.com)
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
+- [Six Signals](https://www.getrevue.co/profile/sixsignals)
 - [Solastalgia Reader](https://tinyletter.com/solastalgia)
 - [speculative nonfiction](https://tinyletter.com/hypotext)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
