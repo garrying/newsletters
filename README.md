@@ -50,6 +50,7 @@
 - [Orbital Operations](http://orbitaloperations.com)
 - [Other Valleys](https://tinyletter.com/othervalleys)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
+- [Potato is a mass noun](https://tinyletter.com/potato-is-a-mass-noun)
 - [SCREEN_](http://screen-space.info)
 - [sentences](https://tinyletter.com/darcie)
 - [Sentiers](https://sentiers.media)
