@@ -1,4 +1,4 @@
-dist: xenial
+dist: bionic
 language: node_js
 before_script:
   - nvm install 10.15.1
