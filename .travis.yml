@@ -1,8 +1,8 @@
 dist: bionic
 language: node_js
 before_script:
-  - nvm install 10.15.1
-  - nvm use 10.15.1
+  - nvm install 10.16.0
+  - nvm use 10.16.0
   - npm install -g npm
   - npm install -g markdown-link-check
 script: markdown-link-check ./README.md
