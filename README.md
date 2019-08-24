@@ -51,6 +51,7 @@
 - [The Orbital Index](https://orbitalindex.com)
 - [Orbital Operations](http://orbitaloperations.com)
 - [Other Valleys](https://tinyletter.com/othervalleys)
+- [Phenomenal World](https://phenomenalworld.org)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
 - [Potato is a mass noun](https://tinyletter.com/potato-is-a-mass-noun)
 - [SCREEN_](http://screen-space.info)
