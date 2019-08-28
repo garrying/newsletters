@@ -18,6 +18,7 @@
 - [Brain Dump](https://mikeisaac.substack.com)
 - [Breaking Smart](https://breakingsmart.com)
 - [button mash](https://buttonmash.substack.com)
+- [Char Stiles](http://charstiles.com/email)
 - [Clearletter](https://tinyletter.com/clearleft)
 - [Close](https://tinyletter.com/close)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
