@@ -29,6 +29,7 @@
 - [Ethical Futures Lab](https://www.getrevue.co/profile/sixsignals)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
+- [Griefbacon](https://griefbacon.substack.com)
 - [Imperica](https://www.imperica.com/en/newsletter)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
 - [Internal exile](https://tinyletter.com/robhorning)
