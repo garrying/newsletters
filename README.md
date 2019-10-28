@@ -73,6 +73,7 @@
 - [the collected ahp](https://annehelen.substack.com)
 - [The Creative Independent](https://thecreativeindependent.com)
 - [The Internet is a City](https://tinyletter.com/nayafia)
+- [The Purposeful Object](https://buttondown.email/TPO)
 - [The Training Commission](https://tinyletter.com/The_Training_Commission)
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
 - [This week's work](https://tinyletter.com/rebeccaonion)
