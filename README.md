@@ -57,6 +57,7 @@
 - [Other Valleys](https://tinyletter.com/othervalleys)
 - [Phenomenal World](https://phenomenalworld.org)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
+- [Pome](https://tinyletter.com/pome)
 - [Potato is a mass noun](https://tinyletter.com/potato-is-a-mass-noun)
 - [SCREEN_](http://screen-space.info)
 - [sentences](https://tinyletter.com/darcie)
