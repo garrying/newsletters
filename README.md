@@ -47,6 +47,7 @@
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Metafoundry](https://tinyletter.com/metafoundry)
+- [Metal Machine Music](https://bentarnoff.substack.com)
 - [Monomythical](https://nayafia.substack.com)
 - [New Work](https://tinyletter.com/lizpelly)
 - [Notes from a Small Press](https://tinyletter.com/annetrubek)
