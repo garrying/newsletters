@@ -50,6 +50,7 @@
 - [Metal Machine Music](https://bentarnoff.substack.com)
 - [Monomythical](https://nayafia.substack.com)
 - [New Work](https://tinyletter.com/lizpelly)
+- [Normcore Tech](https://vicki.substack.com)
 - [Notes from a Small Press](https://tinyletter.com/annetrubek)
 - [nothing here](https://nothing.substack.com)
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
