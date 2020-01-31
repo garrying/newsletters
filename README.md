@@ -25,6 +25,7 @@
 - [dellsystem](https://dellsystem.substack.com)
 - [Desk Lunch](https://www.desklunchnewsletter.com)
 - [Disturbances](https://tinyletter.com/hautepop)
+- [Drawing Links](https://drawinglinks.substack.com)
 - [Dream Machine](https://buttondown.email/dream-machine)
 - [Ethical Futures Lab](https://www.getrevue.co/profile/sixsignals)
 - [Exponential View](https://exponentialview.substack.com)
