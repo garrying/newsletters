@@ -88,4 +88,5 @@
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
 - [WendiLetter](https://tinyletter.com/wendiletter)
+- [Why is this interesting?](https://whyisthisinteresting.substack.com)
 - [Year of the Meteor](https://buttondown.email/year-of-the-meteor)
