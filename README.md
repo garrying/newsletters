@@ -51,6 +51,7 @@
 - [Meanwhile](https://tinyletter.com/meanwhile)
 - [Metafoundry](https://tinyletter.com/metafoundry)
 - [Metal Machine Music](https://bentarnoff.substack.com)
+- [mirabilary](https://mirabilary.substack.com/)
 - [Monomythical](https://nayafia.substack.com)
 - [New Work](https://tinyletter.com/lizpelly)
 - [Normcore Tech](https://vicki.substack.com)
