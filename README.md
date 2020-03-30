@@ -45,6 +45,7 @@
     + [TinyLetter](https://tinyletter.com/chaykak)
     + [Substack](https://kylechayka.substack.com)
 - [Lagniappe](https://tinyletter.com/nicolasnova)
+- [Language Isolate](https://languageisolate.substack.com)
 - [Laura Olin](https://www.lauraolin.com/newsletter)
 - [Leah Letter](https://us14.list-manage.com/subscribe?u=7d9a179d9349586da8d1fd80f&id=47c259ca85)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
