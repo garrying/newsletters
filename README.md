@@ -36,6 +36,7 @@
 - [HEATED](https://heated.world)
 - [Imperica](https://www.imperica.com/en/newsletter)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
+- [Inhabit: Territories](https://territories.substack.com)
 - [Internal exile](https://tinyletter.com/robhorning)
 - [Internet Money](https://tinyletter.com/nayafia)
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
