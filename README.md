@@ -86,6 +86,7 @@
 - [The New Design Congress](https://ndc.substack.com)
 - [The Purposeful Object](https://buttondown.email/TPO)
 - [The Training Commission](https://tinyletter.com/The_Training_Commission)
+- [Things That Have Caught My Attention](https://danhon.substack.com)
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
 - [This week's work](https://tinyletter.com/rebeccaonion)
 - [This will take time](https://tinyletter.com/thiswilltaketime)
