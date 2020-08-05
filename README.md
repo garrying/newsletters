@@ -52,6 +52,7 @@
 - [Leah Letter](https://us14.list-manage.com/subscribe?u=7d9a179d9349586da8d1fd80f&id=47c259ca85)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
+- [May I Recommend](http://www.mayirecommend.email/)
 - [Meanwhile](https://tinyletter.com/meanwhile)
 - [Metafoundry](https://tinyletter.com/metafoundry)
 - [Metal Machine Music](https://bentarnoff.substack.com)
