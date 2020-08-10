@@ -35,6 +35,7 @@
 - [Fermat's Library](https://www.fermatslibrary.com)
 - [Griefbacon](https://griefbacon.substack.com)
 - [HEATED](https://heated.world)
+- [Health and Capital](https://healthandcapital.substack.com)
 - [Imperica](https://www.imperica.com/en/newsletter)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
 - [Inhabit: Territories](https://territories.substack.com)
