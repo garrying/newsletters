@@ -87,6 +87,7 @@
 - [The Cabinet of Curious Cargo](https://tinyletter.com/the-cabinet)
 - [the collected ahp](https://annehelen.substack.com)
 - [The Creative Independent](https://thecreativeindependent.com)
+- [The Dork Web](https://thedorkweb.substack.com)
 - [The Internet is a City](https://tinyletter.com/nayafia)
 - [The New Design Congress](https://ndc.substack.com)
 - [The Purposeful Object](https://buttondown.email/TPO)
