@@ -41,6 +41,7 @@
 - [Internal exile](https://tinyletter.com/robhorning)
 - [Internet Money](https://tinyletter.com/nayafia)
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
+- [Ironic Sans](https://ironicsans.substack.com)
 - [James Bridle: Occasional Newsletter](https://tinyletter.com/jamesbridle)
 - [Kneeling Bus](https://kneelingbus.net)
 - Kyle Chayka Industries
