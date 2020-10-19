@@ -12,6 +12,7 @@
     + [TinyLetter](https://tinyletter.com/jomc)
     + [Substack](https://jomc.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
+- [Acoustic Inertia](https://megmillerworld.substack.com)
 - [Avery Shorts](http://www.averyshorts.com)
 - [AZLetter](https://tinyletter.com/aaronzlewis)
 - [Biota](http://www.iambiota.com)
