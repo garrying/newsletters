@@ -82,6 +82,7 @@
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
 - [Solastalgia Reader](https://tinyletter.com/solastalgia)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
+- [Strange Space Weather](https://spaceweather.substack.com)
 - [Strange Transmissions](https://tinyletter.com/StrangeTelemetry)
 - [Subject Matter](https://tinyletter.com/Subpixel-Space)
 - [Superorganizers](https://superorganizers.substack.com)
