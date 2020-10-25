@@ -101,6 +101,7 @@
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
 - [This week's work](https://tinyletter.com/rebeccaonion)
 - [This will take time](https://tinyletter.com/thiswilltaketime)
+- [Time To Say Goodbye](https://goodbye.substack.com)
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
 - [WendiLetter](https://tinyletter.com/wendiletter)
