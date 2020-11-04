@@ -39,6 +39,7 @@
 - [Health and Capital](https://healthandcapital.substack.com)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
 - [Inhabit: Territories](https://territories.substack.com)
+- [Insights](https://zeynep.substack.com)
 - [Internal exile](https://tinyletter.com/robhorning)
 - [Internet Money](https://tinyletter.com/nayafia)
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
