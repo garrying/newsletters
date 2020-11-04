@@ -81,6 +81,7 @@
 - [Sentiers](https://sentiers.media)
 - [Signal Problems](https://signalproblems.substack.com)
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
+- [Slow Ghost](https://slowghost.substack.com)
 - [Solastalgia Reader](https://tinyletter.com/solastalgia)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
 - [Strange Space Weather](https://spaceweather.substack.com)
