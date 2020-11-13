@@ -37,6 +37,7 @@
 - [Griefbacon](https://griefbacon.substack.com)
 - [HEATED](https://heated.world)
 - [Health and Capital](https://healthandcapital.substack.com)
+- [Imaginary Papers](https://csi.asu.edu/imaginary-papers)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
 - [Inhabit: Territories](https://territories.substack.com)
 - [Insights](https://zeynep.substack.com)
