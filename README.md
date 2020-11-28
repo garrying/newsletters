@@ -3,6 +3,7 @@
 
 - [5it](https://tinyletter.com/5it)
 - [6](https://tinyletter.com/vruba)
+- [8Ball](https://8ball.substack.com)
 - [A Kind of Indulgence](https://tinyletter.com/jilnotjill)
 - [a sketchbook](https://tinyletter.com/cassiem)
 - [A Working Library](https://tinyletter.com/aworkinglibrary)
