@@ -109,4 +109,5 @@
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
 - [WendiLetter](https://tinyletter.com/wendiletter)
 - [Why is this interesting?](https://whyisthisinteresting.substack.com)
+- [Winning the Internet](https://pudding.cool/projects/newsletter)
 - [Year of the Meteor](https://buttondown.email/year-of-the-meteor)
