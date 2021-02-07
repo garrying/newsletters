@@ -99,6 +99,7 @@
 - [The Internet is a City](https://tinyletter.com/nayafia)
 - [The New Design Congress](https://ndc.substack.com)
 - [The Purposeful Object](https://buttondown.email/TPO)
+- [The Relay](https://relay.substack.com)
 - [The Training Commission](https://tinyletter.com/The_Training_Commission)
 - [Things That Have Caught My Attention](https://danhon.substack.com)
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
