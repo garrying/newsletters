@@ -1,5 +1,5 @@
 # Newsletters
-[![Build Status](https://travis-ci.org/garrying/newsletters.svg?branch=master)](https://travis-ci.org/garrying/newsletters)
+[![Build Status](https://travis-ci.com/garrying/newsletters.svg?branch=master)](https://travis-ci.com/garrying/newsletters)
 
 - [5it](https://tinyletter.com/5it)
 - [6](https://tinyletter.com/vruba)
@@ -31,7 +31,7 @@
 - [Diverge Weekly](https://divergeweekly.com)
 - [Drawing Links](https://drawinglinks.substack.com)
 - [Dream Machine](https://buttondown.email/dream-machine)
-- [Ethical Futures Lab](https://www.getrevue.co/profile/sixsignals)
+- [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
 - [Griefbacon](https://griefbacon.substack.com)
