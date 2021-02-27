@@ -76,6 +76,7 @@
 - [Pome](https://tinyletter.com/pome)
 - [Potato is a mass noun](https://tinyletter.com/potato-is-a-mass-noun)
 - [pycnocline](https://pycnocline.substack.com)
+- [Real Life Magazine](https://tinyletter.com/reallifemag)
 - [Recs](http://recs.email)
 - [rich text](https://tinyletter.com/rich-text)
 - [SCREEN_](http://screen-space.info)
