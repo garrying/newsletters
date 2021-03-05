@@ -22,6 +22,7 @@
 - [Breaking Smart](https://breakingsmart.com)
 - [button mash](https://buttonmash.substack.com)
 - [Cabinet of Wonders](https://arbesman.substack.com)
+- [Chaoyang Trap House)(https://chaoyang.substack.com)
 - [Char Stiles](http://charstiles.com/email)
 - [Clearletter](https://tinyletter.com/clearleft)
 - [Close](https://tinyletter.com/close)
