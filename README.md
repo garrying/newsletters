@@ -83,6 +83,7 @@
 - [SCREEN_](http://screen-space.info)
 - [sentences](https://tinyletter.com/darcie)
 - [Sentiers](https://sentiers.media)
+- [[Sic] Weekly](https://sicweekly.substack.com)
 - [Signal Problems](https://signalproblems.substack.com)
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
 - [Slow Ghost](https://slowghost.substack.com)
