@@ -110,6 +110,7 @@
 - [This will take time](https://tinyletter.com/thiswilltaketime)
 - [Time To Say Goodbye](https://goodbye.substack.com)
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
+- [Trashberg](https://www.trashberg.com)
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
 - [WendiLetter](https://tinyletter.com/wendiletter)
 - [Why is this interesting?](https://whyisthisinteresting.substack.com)
