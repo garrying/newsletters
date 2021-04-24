@@ -88,6 +88,7 @@
 - [Situated Systems](https://tinyletter.com/SituatedSystems)
 - [Slow Ghost](https://slowghost.substack.com)
 - [Solastalgia Reader](https://tinyletter.com/solastalgia)
+- [Some reading thing](https://buttondown.email/soniaturcotte)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
 - [Strange Space Weather](https://spaceweather.substack.com)
 - [Strange Transmissions](https://tinyletter.com/StrangeTelemetry)
