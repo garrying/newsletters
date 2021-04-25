@@ -1,0 +1,22 @@
+name: Link Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14.x
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+      - name: Check links
+        run: markdown-link-check ./README.md
