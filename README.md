@@ -75,7 +75,6 @@
 - [Phenomenal World](https://phenomenalworld.org)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
 - [Pome](https://tinyletter.com/pome)
-- [Potato is a mass noun](https://tinyletter.com/potato-is-a-mass-noun)
 - [pycnocline](https://pycnocline.substack.com)
 - [Real Life Magazine](https://tinyletter.com/reallifemag)
 - [Recs](http://recs.email)
