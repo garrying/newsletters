@@ -1,5 +1,5 @@
 # Newsletters
-[![Build Status](https://travis-ci.com/garrying/newsletters.svg?branch=master)](https://travis-ci.com/garrying/newsletters)
+[![Link Check](https://github.com/garrying/newsletters/actions/workflows/link-check.yml/badge.svg)](https://github.com/garrying/newsletters/actions/workflows/link-check.yml)
 
 - [5it](https://tinyletter.com/5it)
 - [6](https://tinyletter.com/vruba)
