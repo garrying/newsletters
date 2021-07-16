@@ -119,3 +119,4 @@
 - [Wild Information](https://clairelevans.substack.com)
 - [Winning the Internet](https://pudding.cool/projects/newsletter)
 - [Year of the Meteor](https://buttondown.email/year-of-the-meteor)
+- [Zero Day](https://zetter.substack.com)
