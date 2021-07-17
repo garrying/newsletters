@@ -27,6 +27,7 @@
 - [Char Stiles](http://charstiles.com/email)
 - [Clearletter](https://tinyletter.com/clearleft)
 - [Close](https://tinyletter.com/close)
+- [computers suck](https://sanctucompu.substack.com)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [dellsystem](https://dellsystem.substack.com)
 - [Disturbances](https://tinyletter.com/hautepop)
