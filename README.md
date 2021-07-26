@@ -90,6 +90,7 @@
 - [Slow Ghost](https://slowghost.substack.com)
 - [Solastalgia Reader](https://tinyletter.com/solastalgia)
 - [Some reading thing](https://buttondown.email/soniaturcotte)
+- [Soft Labor](https://sarahhromack.substack.com)
 - [STRANGE DISPATCHES](https://tinyletter.com/strangefound)
 - [Strange Space Weather](https://spaceweather.substack.com)
 - [Strange Transmissions](https://tinyletter.com/StrangeTelemetry)
