@@ -14,7 +14,6 @@
     + [Substack](https://jomc.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Acoustic Inertia](https://megmillerworld.substack.com)
-- [Avery Shorts](http://www.averyshorts.com)
 - [Ayesha A. Siddiqi](https://ayeshaasiddiqi.substack.com)
 - [AZLetter](https://tinyletter.com/aaronzlewis)
 - [Biota](http://www.iambiota.com)
