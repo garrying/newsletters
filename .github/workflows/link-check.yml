@@ -16,7 +16,6 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 14.x
-          cache: 'npm'
       - name: Install markdown-link-check
         run: npm install -g markdown-link-check
       - name: Check links
