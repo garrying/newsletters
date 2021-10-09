@@ -6,7 +6,7 @@
 - [8Ball](https://8ball.substack.com)
 - [A Kind of Indulgence](https://tinyletter.com/jilnotjill)
 - [a sketchbook](https://tinyletter.com/cassiem)
-- [A Working Library](https://tinyletter.com/aworkinglibrary)
+- [A Working Library](https://buttondown.email/aworkinglibrary)
 - [actionnow](https://tinyletter.com/actionnow)
 - [Adventures in Typography](https://buttondown.email/robinrendle)
 - All My Stars
