@@ -36,6 +36,7 @@
 - [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
+- [Garbage Day](https://www.garbageday.email)
 - [Griefbacon](https://griefbacon.substack.com)
 - [HEATED](https://heated.world)
 - [Health and Capital](https://healthandcapital.substack.com)
