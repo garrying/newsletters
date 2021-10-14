@@ -38,6 +38,7 @@
 - [Fermat's Library](https://www.fermatslibrary.com)
 - [Garbage Day](https://www.garbageday.email)
 - [Griefbacon](https://griefbacon.substack.com)
+- [Hardcore Software](https://hardcoresoftware.learningbyshipping.com)
 - [HEATED](https://heated.world)
 - [Health and Capital](https://healthandcapital.substack.com)
 - [Imaginary Papers](https://csi.asu.edu/imaginary-papers)
