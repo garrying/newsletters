@@ -69,6 +69,7 @@
 - [M I R A B I L A R Y](https://mirabilary.substack.com/)
 - [Monomythical](https://nayafia.substack.com)
 - [New Work](https://tinyletter.com/lizpelly)
+- [No Easy Matters](https://noeasymatters.substack.com)
 - [Normcore Tech](https://vicki.substack.com)
 - [Notes from a Small Press](https://tinyletter.com/annetrubek)
 - [nothing here](https://nothing.substack.com)
