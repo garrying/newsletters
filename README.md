@@ -31,6 +31,7 @@
 - [dellsystem](https://dellsystem.substack.com)
 - [Disturbances](https://tinyletter.com/hautepop)
 - [Diverge Weekly](https://divergeweekly.com)
+- [Do Not Research](https://donotresearch.net/about)
 - [Drawing Links](https://drawinglinks.substack.com)
 - [Dream Machine](https://buttondown.email/dream-machine)
 - [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
