@@ -29,6 +29,7 @@
 - [computers suck](https://sanctucompu.substack.com)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [dellsystem](https://dellsystem.substack.com)
+- [Design Fiction](https://buttondown.email/designfiction)
 - [Design Harder](https://designharder.substack.com)
 - [Disturbances](https://tinyletter.com/hautepop)
 - [Diverge Weekly](https://divergeweekly.com)
