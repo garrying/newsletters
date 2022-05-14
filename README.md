@@ -123,6 +123,7 @@
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
 - [Trashberg](https://www.trashberg.com)
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
+- [Walking the World](https://walkingtheworld.substack.com)
 - [WendiLetter](https://tinyletter.com/wendiletter)
 - [Why is this interesting?](https://whyisthisinteresting.substack.com)
 - [Wild Information](https://clairelevans.substack.com)
