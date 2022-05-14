@@ -16,7 +16,6 @@
 - [Acoustic Inertia](https://megmillerworld.substack.com)
 - [Ayesha A. Siddiqi](https://ayeshaasiddiqi.substack.com)
 - [AZLetter](https://tinyletter.com/aaronzlewis)
-- [Biota](http://www.iambiota.com)
 - [Border Studies](https://tinyletter.com/samanthaculp)
 - [Brain Dump](https://mikeisaac.substack.com)
 - [Breaking Smart](https://breakingsmart.com)
