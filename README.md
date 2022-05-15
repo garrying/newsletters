@@ -85,7 +85,6 @@
 - [pycnocline](https://pycnocline.substack.com)
 - [Read Max](https://maxread.substack.com)
 - [Real Life Magazine](https://tinyletter.com/reallifemag)
-- [Recs](http://recs.email)
 - [rich text](https://tinyletter.com/rich-text)
 - [SCREEN_](http://screen-space.info)
 - [sentences](https://tinyletter.com/darcie)
