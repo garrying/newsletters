@@ -48,6 +48,7 @@
 - [Inhabit: Territories](https://territories.substack.com)
 - [Insights](https://zeynep.substack.com)
 - [Internal exile](https://tinyletter.com/robhorning)
+- [Internet Blue](https://internetblue.substack.com)
 - [Internet Money](https://tinyletter.com/nayafia)
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
 - [Ironic Sans](https://ironicsans.substack.com)
