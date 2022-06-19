@@ -80,6 +80,7 @@
 - [The Orbital Index](https://orbitalindex.com)
 - [On the Rocks](https://rocks.substack.com)
 - [Other Worlds](https://buttondown.email/otherworlds)
+- [Out of It](https://marygaitskill.substack.com)
 - [Pedestrian](https://pedestrian.substack.com)
 - [Phenomenal World](https://phenomenalworld.org)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
