@@ -26,6 +26,7 @@
 - [Clearletter](https://tinyletter.com/clearleft)
 - [Close](https://tinyletter.com/close)
 - [computers suck](https://sanctucompu.substack.com)
+- [Cowgirl](https://cowgirl.substack.com)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [dellsystem](https://dellsystem.substack.com)
 - [Design Fiction](https://buttondown.email/designfiction)
