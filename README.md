@@ -86,7 +86,6 @@
 - [Phenomenal World](https://phenomenalworld.org)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
 - [Pome](https://tinyletter.com/pome)
-- [pycnocline](https://pycnocline.substack.com)
 - [Read Max](https://maxread.substack.com)
 - [Real Life Magazine](https://tinyletter.com/reallifemag)
 - [rich text](https://tinyletter.com/rich-text)
