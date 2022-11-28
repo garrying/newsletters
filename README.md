@@ -40,6 +40,7 @@
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
 - [Garbage Day](https://www.garbageday.email)
+- [gen yeet](https://genyeet.substack.com)
 - [Griefbacon](https://griefbacon.substack.com)
 - [Hardcore Software](https://hardcoresoftware.learningbyshipping.com)
 - [HEATED](https://heated.world)
