@@ -85,6 +85,7 @@
 - [Out of It](https://marygaitskill.substack.com)
 - [Pedestrian](https://pedestrian.substack.com)
 - [Phenomenal World](https://phenomenalworld.org)
+- [P.W. Elverum & Sun](https://pwelverumandsun.substack.com)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
 - [Pome](https://tinyletter.com/pome)
 - [Read Max](https://maxread.substack.com)
