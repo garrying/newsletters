@@ -60,7 +60,6 @@
     + [Substack](https://kylechayka.substack.com)
 - [Lagniappe](https://tinyletter.com/nicolasnova)
 - [Language Isolate](https://languageisolate.substack.com)
-- [Laura Olin](https://www.lauraolin.com/newsletter)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Links I Would Gchat You If We Were Quarantined](https://linksiwouldgchatyou.substack.com)
