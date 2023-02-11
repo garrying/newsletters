@@ -110,6 +110,7 @@
 - [the collected ahp](https://annehelen.substack.com)
 - [The Creative Independent](https://thecreativeindependent.com)
 - [The Dork Web](https://thedorkweb.substack.com)
+- [the dream machine](https://thedreammachine.substack.com)
 - [The Internet is a City](https://tinyletter.com/nayafia)
 - [The London Review of Looks](https://tinyletter.com/londonreviewoflooks)
 - [The New Design Congress](https://ndc.substack.com)
