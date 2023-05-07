@@ -88,6 +88,7 @@
 - [Pome](https://tinyletter.com/pome)
 - [Read Max](https://maxread.substack.com)
 - [Real Life Magazine](https://tinyletter.com/reallifemag)
+- [Ribbonfarm Studio](https://studio.ribbonfarm.com)
 - [rich text](https://tinyletter.com/rich-text)
 - [SCREEN_](http://screen-space.info)
 - [sentences](https://tinyletter.com/darcie)
