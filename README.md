@@ -109,6 +109,7 @@
 - [The Art of Gig](https://artofgig.substack.com)
 - [The Cabinet of Curious Cargo](https://tinyletter.com/the-cabinet)
 - [the collected ahp](https://annehelen.substack.com)
+- [The Convivial Society](https://theconvivialsociety.substack.com)
 - [The Creative Independent](https://thecreativeindependent.com)
 - [The Dork Web](https://thedorkweb.substack.com)
 - [the dream machine](https://thedreammachine.substack.com)
