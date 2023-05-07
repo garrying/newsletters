@@ -31,6 +31,7 @@
 - [dellsystem](https://dellsystem.substack.com)
 - [Design Fiction](https://buttondown.email/designfiction)
 - [Design Harder](https://designharder.substack.com)
+- [Dirt](https://dirt.fyi)
 - [Disturbances](https://tinyletter.com/hautepop)
 - [Diverge Weekly](https://divergeweekly.com)
 - [Do Not Research](https://donotresearch.net/about)
