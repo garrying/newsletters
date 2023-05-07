@@ -36,6 +36,7 @@
 - [Do Not Research](https://donotresearch.net/about)
 - [Drawing Links](https://drawinglinks.substack.com)
 - [Dream Machine](https://buttondown.email/dream-machine)
+- [Escaping Flatland](https://escapingflatland.substack.com)
 - [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
