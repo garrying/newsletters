@@ -80,6 +80,7 @@
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
 - [The Orbital Index](https://orbitalindex.com)
 - [On the Rocks](https://rocks.substack.com)
+- [Other Internet](https://otherinternet.substack.com)
 - [Other Worlds](https://buttondown.email/otherworlds)
 - [Out of It](https://marygaitskill.substack.com)
 - [Pedestrian](https://pedestrian.substack.com)
