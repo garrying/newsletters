@@ -29,7 +29,6 @@
 - [Cowgirl](https://cowgirl.substack.com)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [dellsystem](https://dellsystem.substack.com)
-- [Design Fiction](https://buttondown.email/designfiction)
 - [Design Harder](https://designharder.substack.com)
 - [Dirt](https://dirt.fyi)
 - [Disturbances](https://tinyletter.com/hautepop)
