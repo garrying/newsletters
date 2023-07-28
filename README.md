@@ -14,6 +14,7 @@
     + [Substack](https://jomc.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Acoustic Inertia](https://megmillerworld.substack.com)
+- [Another Day in the Dome](https://anotherdayinthedome.substack.com)
 - [Ayesha A. Siddiqi](https://ayeshaasiddiqi.substack.com)
 - [AZLetter](https://tinyletter.com/aaronzlewis)
 - [Border Studies](https://tinyletter.com/samanthaculp)
