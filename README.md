@@ -110,6 +110,7 @@
 - [Subconscious](https://subconscious.substack.com)
 - [Subject Matter](https://tinyletter.com/Subpixel-Space)
 - [Superorganizers](https://superorganizers.substack.com)
+- [surfacing](https://mikkipedia.substack.com)
 - [Technically](https://technically.substack.com)
 - [The Art of Gig](https://artofgig.substack.com)
 - [The Cabinet of Curious Cargo](https://tinyletter.com/the-cabinet)
