@@ -66,6 +66,7 @@
 - [Lagniappe](https://tinyletter.com/nicolasnova)
 - [Language Isolate](https://languageisolate.substack.com)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
+- [let them eat cake](https://letthemeatcake.substack.com)
 - [Letters from Nicole](https://tinyletter.com/nicoleslaw)
 - [Links I Would Gchat You If We Were Quarantined](https://linksiwouldgchatyou.substack.com)
 - [Little Futures](https://littlefutures.substack.com)
