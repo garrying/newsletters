@@ -43,6 +43,7 @@
 - [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
+- [Future of Coding Weekly](https://tinyletter.com/marianoguerra)
 - [Garbage Day](https://www.garbageday.email)
 - [gen yeet](https://genyeet.substack.com)
 - [Griefbacon](https://griefbacon.substack.com)
