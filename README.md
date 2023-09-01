@@ -12,6 +12,7 @@
 - All My Stars
     + [TinyLetter](https://tinyletter.com/jomc)
     + [Substack](https://jomc.substack.com)
+- [Another Day in the Dome](https://anotherdayinthedome.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Acoustic Inertia](https://megmillerworld.substack.com)
 - [Another Day in the Dome](https://anotherdayinthedome.substack.com)
