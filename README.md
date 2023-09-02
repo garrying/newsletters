@@ -81,6 +81,7 @@
 - [Notes from a Small Press](https://tinyletter.com/annetrubek)
 - [nothing here](https://nothing.substack.com)
 - [NOWHERE FAST](https://tinyletter.com/nowherefast)
+- [oakland garden club](https://oaklandgardenclub.substack.com)
 - [The Orbital Index](https://orbitalindex.com)
 - [On the Rocks](https://rocks.substack.com)
 - [Other Internet](https://otherinternet.substack.com)
