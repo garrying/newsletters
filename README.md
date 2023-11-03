@@ -140,4 +140,5 @@
 - [Why is this interesting?](https://whyisthisinteresting.substack.com)
 - [Wild Information](https://clairelevans.substack.com)
 - [Winning the Internet](https://pudding.cool/projects/newsletter)
+- [Wondercabinet](https://lawrenceweschler.substack.com)
 - [Zero Day](https://zetter.substack.com)
