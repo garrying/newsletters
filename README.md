@@ -1,6 +1,7 @@
 # Newsletters
 [![Link Check](https://github.com/garrying/newsletters/actions/workflows/link-check.yml/badge.svg)](https://github.com/garrying/newsletters/actions/workflows/link-check.yml)
 
+- [(¯\`*•.¸,¤°´✿.｡.:* 𝐈'м ᶤℕ 𝐥𝐨𝓥ᗴ ŴιＴʰ 𝕄𝕐 𝓹𝓸𝐫т@𝐥 *.:｡.✿`°¤,¸.•*\´¯)](https://mollysoda.substack.com)
 - [5it](https://tinyletter.com/5it)
 - [6](https://tinyletter.com/vruba)
 - [8Ball](https://8ball.substack.com)
