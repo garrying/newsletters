@@ -60,6 +60,7 @@
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
 - [Ironic Sans](https://ironicsans.substack.com)
 - [James Bridle: Occasional Newsletter](https://tinyletter.com/jamesbridle)
+- [Joshua Citarella's Newsletter](https://joshuacitarella.substack.com)
 - [Kneeling Bus](https://kneelingbus.net)
 - Kyle Chayka Industries
     + [TinyLetter](https://tinyletter.com/chaykak)
@@ -93,6 +94,7 @@
 - [P.W. Elverum & Sun](https://pwelverumandsun.substack.com)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
 - [Pome](https://tinyletter.com/pome)
+- [Proof of Concept](https://www.proofofconcept.pub)
 - [Read Max](https://maxread.substack.com)
 - [Real Life Magazine](https://tinyletter.com/reallifemag)
 - [Ribbonfarm Studio](https://studio.ribbonfarm.com)
