@@ -134,6 +134,7 @@
 - [Today in Librarian Tabs](https://tinyletter.com/jessamyn)
 - [Trashberg](https://www.trashberg.com)
 - [Unbearably Bright](https://tinyletter.com/CharlieMarkbreiter)
+- [Vague Blue](https://nguyenterry.substack.com)
 - [Walking the World](https://walkingtheworld.substack.com)
 - [WendiLetter](https://tinyletter.com/wendiletter)
 - [Why is this interesting?](https://whyisthisinteresting.substack.com)
