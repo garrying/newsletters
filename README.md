@@ -10,9 +10,7 @@
 - [A Working Library](https://buttondown.email/aworkinglibrary)
 - [actionnow](https://tinyletter.com/actionnow)
 - [Adventures in Typography](https://buttondown.email/robinrendle)
-- All My Stars
-    + [TinyLetter](https://tinyletter.com/jomc)
-    + [Substack](https://jomc.substack.com)
+- [All My Stars](https://jomc.substack.com)
 - [Another Day in the Dome](https://anotherdayinthedome.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Acoustic Inertia](https://megmillerworld.substack.com)
@@ -62,9 +60,7 @@
 - [James Bridle: Occasional Newsletter](https://tinyletter.com/jamesbridle)
 - [Joshua Citarella's Newsletter](https://joshuacitarella.substack.com)
 - [Kneeling Bus](https://kneelingbus.net)
-- Kyle Chayka Industries
-    + [TinyLetter](https://tinyletter.com/chaykak)
-    + [Substack](https://kylechayka.substack.com)
+- [Kyle Chayka Industries](https://kylechayka.substack.com)
 - [Lagniappe](https://tinyletter.com/nicolasnova)
 - [Language Isolate](https://languageisolate.substack.com)
 - [Learning Gardens Updates](https://tinyletter.com/learningardens)
