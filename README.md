@@ -40,6 +40,7 @@
 - [Dream Machine](https://buttondown.email/dream-machine)
 - [ephemeras](https://ephemeras.substack.com)
 - [Escaping Flatland](https://escapingflatland.substack.com)
+- [escape the algorithm](https://escapethealgorithm.substack.com)
 - [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
 - [Exponential View](https://exponentialview.substack.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
