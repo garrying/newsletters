@@ -52,6 +52,7 @@
 - [Hardcore Software](https://hardcoresoftware.learningbyshipping.com)
 - [HEATED](https://heated.world)
 - [Health and Capital](https://healthandcapital.substack.com)
+- [Humane Ingenuity](https://newsletter.dancohen.org)
 - [Imaginary Papers](https://csi.asu.edu/imaginary-papers)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
 - [Inhabit: Territories](https://territories.substack.com)
