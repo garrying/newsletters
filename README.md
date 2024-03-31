@@ -84,6 +84,7 @@
 - [oakland garden club](https://oaklandgardenclub.substack.com)
 - [The Orbital Index](https://orbitalindex.com)
 - [On the Rocks](https://rocks.substack.com)
+- [One Thing](https://onethingnewsletter.substack.com)
 - [Other Internet](https://otherinternet.substack.com)
 - [Other Worlds](https://buttondown.email/otherworlds)
 - [Out of It](https://marygaitskill.substack.com)
