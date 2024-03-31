@@ -101,6 +101,7 @@
 - [Ribbonfarm Studio](https://studio.ribbonfarm.com)
 - [rich text](https://tinyletter.com/rich-text)
 - [SCREEN_](http://screen-space.info)
+- [Search Engine](https://pjvogt.substack.com)
 - [sentences](https://tinyletter.com/darcie)
 - [Sentiers](https://sentiers.media)
 - [[Sic] Weekly](https://sicweekly.substack.com)
