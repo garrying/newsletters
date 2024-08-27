@@ -132,6 +132,7 @@
 - [The London Review of Looks](https://tinyletter.com/londonreviewoflooks)
 - [The New Design Congress](https://ndc.substack.com)
 - [The Relay](https://relay.substack.com)
+- [The Small Bow](https://thesmallbow.substack.com)
 - [The Training Commission](https://tinyletter.com/The_Training_Commission)
 - [Things That Have Caught My Attention](https://danhon.substack.com)
 - [This Newsletter Is](https://tinyletter.com/sheilaxyz)
