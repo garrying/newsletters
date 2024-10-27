@@ -129,6 +129,7 @@
 - [The Convivial Society](https://theconvivialsociety.substack.com)
 - [The Creative Independent](https://thecreativeindependent.com)
 - [The Dork Web](https://thedorkweb.substack.com)
+- [The Elif Life](https://eliflife.substack.com)
 - [the dream machine](https://thedreammachine.substack.com)
 - [The Internet is a City](https://tinyletter.com/nayafia)
 - [The London Review of Looks](https://tinyletter.com/londonreviewoflooks)
