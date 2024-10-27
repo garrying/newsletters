@@ -13,9 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         name: Checkout source branch
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
-        name: Check links
-        with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          config-file: 'mlc_config.json'
+      - name: Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
