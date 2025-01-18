@@ -31,6 +31,7 @@
 - [Close](https://tinyletter.com/close)
 - [computers suck](https://sanctucompu.substack.com)
 - [Cowgirl](https://cowgirl.substack.com)
+- [Dada Drummer Almanach](https://dadadrummer.substack.com)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
 - [dellsystem](https://dellsystem.substack.com)
 - [Design Harder](https://designharder.substack.com)
