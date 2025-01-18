@@ -1,6 +1,3 @@
-# Newsletters
-[![Link Check](https://github.com/garrying/newsletters/actions/workflows/link-check.yml/badge.svg)](https://github.com/garrying/newsletters/actions/workflows/link-check.yml)
-
 - [(¯\`*•.¸,¤°´✿.｡.:* 𝐈'м ᶤℕ 𝐥𝐨𝓥ᗴ ŴιＴʰ 𝕄𝕐 𝓹𝓸𝐫т@𝐥 *.:｡.✿`°¤,¸.•*\´¯)](https://mollysoda.substack.com)
 - [[Sic] Weekly](https://sicweekly.substack.com)
 - [4Columns](https://4columns.org)
