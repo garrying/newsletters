@@ -93,6 +93,7 @@
 - [Out of It](https://marygaitskill.substack.com)
 - [P.W. Elverum & Sun](https://pwelverumandsun.substack.com)
 - [Pedestrian](https://pedestrian.substack.com)
+- [personal cannon](https://www.personalcanon.com)
 - [Phenomenal World](https://phenomenalworld.org)
 - [PLACE TALKS Newsletter](https://tinyletter.com/placetalks)
 - [Pome](https://tinyletter.com/pome)
