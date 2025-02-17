@@ -60,6 +60,7 @@
 - [Internal exile](https://tinyletter.com/robhorning)
 - [Internet Blue](https://internetblue.substack.com)
 - [Internet Money](https://tinyletter.com/nayafia)
+- [internet princess](https://internetprincess.substack.com)
 - [IPFS Newsletter](https://tinyletter.com/ipfsnewsletter)
 - [Ironic Sans](https://ironicsans.substack.com)
 - [James Bridle: Occasional Newsletter](https://tinyletter.com/jamesbridle)
