@@ -90,6 +90,7 @@
 - [Obsolete Sony](https://obsoletesony.substack.com)
 - [On the Rocks](https://rocks.substack.com)
 - [One Thing](https://onethingnewsletter.substack.com)
+- [ordinary instants](https://ordinaryinstants.substack.com)
 - [Other Internet](https://otherinternet.substack.com)
 - [Other Worlds](https://buttondown.email/otherworlds)
 - [Out of It](https://marygaitskill.substack.com)
