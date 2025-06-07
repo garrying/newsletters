@@ -54,6 +54,7 @@
 - [Hardcore Software](https://hardcoresoftware.learningbyshipping.com)
 - [Health and Capital](https://healthandcapital.substack.com)
 - [HEATED](https://heated.world)
+- [Heavy Machinery](https://mikepepi.substack.com)
 - [Humane Ingenuity](https://newsletter.dancohen.org)
 - [Imaginary Papers](https://csi.asu.edu/imaginary-papers)
 - [Infrastructure Time](https://tinyletter.com/infrastructuretime)
