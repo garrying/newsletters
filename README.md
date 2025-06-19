@@ -133,6 +133,7 @@
 - [The Dork Web](https://thedorkweb.substack.com)
 - [the dream machine](https://thedreammachine.substack.com)
 - [The Elif Life](https://eliflife.substack.com)
+- [The Etymology Nerd](https://etymology.substack.com)
 - [The Internet is a City](https://tinyletter.com/nayafia)
 - [The London Review of Looks](https://tinyletter.com/londonreviewoflooks)
 - [The Molehill](https://www.themolehill.net)
