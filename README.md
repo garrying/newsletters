@@ -45,6 +45,7 @@
 - [Escaping Flatland](https://escapingflatland.substack.com)
 - [Ethical Futures Lab](https://ethicalfutureslab.substack.com)
 - [Exponential View](https://exponentialview.substack.com)
+- [fast writing](https://elviawilk.substack.com)
 - [Feed Me](https://www.readfeedme.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra)
