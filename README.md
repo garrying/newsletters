@@ -28,6 +28,7 @@
 - [Close](https://tinyletter.com/close)
 - [Common Discourse](https://www.commondiscourse.xyz)
 - [computers suck](https://sanctucompu.substack.com)
+- [Counter Craft](https://countercraft.substack.com)
 - [Cowgirl](https://cowgirl.substack.com)
 - [Dada Drummer Almanach](https://dadadrummer.substack.com)
 - [Data Is Plural](https://tinyletter.com/data-is-plural)
