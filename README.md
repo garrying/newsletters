@@ -10,6 +10,7 @@
 - [actionnow](https://tinyletter.com/actionnow)
 - [Adventures in Typography](https://buttondown.email/robinrendle)
 - [All My Stars](https://jomc.substack.com)
+- [Amalia Ulman](https://amaliaulman.substack.com)
 - [Ann Friedman](https://www.annfriedman.com/weekly)
 - [Another Day in the Dome](https://anotherdayinthedome.substack.com)
 - [Artificial Memory](https://keikreutler.substack.com)
