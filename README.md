@@ -3,6 +3,7 @@
 - [4Columns](https://4columns.org)
 - [5it](https://tinyletter.com/5it)
 - [8Ball](https://8ball.substack.com)
+- [A Good Hard Stare](https://agoodhardstare.substack.com)
 - [A Kind of Indulgence](https://tinyletter.com/jilnotjill)
 - [a sketchbook](https://tinyletter.com/cassiem)
 - [A Working Library](https://buttondown.email/aworkinglibrary)
