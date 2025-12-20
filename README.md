@@ -29,6 +29,7 @@
 - [Close](https://tinyletter.com/close)
 - [Common Discourse](https://www.commondiscourse.xyz)
 - [computers suck](https://sanctucompu.substack.com)
+- [coulda been at the club](https://www.couldabeenatthe.club)
 - [Counter Craft](https://countercraft.substack.com)
 - [Cowgirl](https://cowgirl.substack.com)
 - [Dada Drummer Almanach](https://dadadrummer.substack.com)
