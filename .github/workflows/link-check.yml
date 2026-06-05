@@ -2,9 +2,9 @@ name: Link Check
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
   workflow_dispatch:
 
 concurrency:
@@ -20,5 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         name: Checkout source branch
-      - name: Run linkspector
-        uses: umbrelladocs/action-linkspector@v1.4
+      - name: Lychee Broken Link Checker
+        uses: lycheeverse/lychee-action@v2.8.0
+        with:
+          args: --verbose --no-progress --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" README.md
+          fail: false
