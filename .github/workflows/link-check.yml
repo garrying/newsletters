@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v7
         name: Checkout source branch
       - name: Lychee Broken Link Checker
-        uses: lycheeverse/lychee-action@v2.8.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           args: --verbose --no-progress --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" README.md
           fail: false
