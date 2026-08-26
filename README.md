@@ -101,6 +101,7 @@
 - [Other Internet](https://otherinternet.substack.com)
 - [Other Worlds](https://buttondown.email/otherworlds)
 - [Out of It](https://marygaitskill.substack.com)
+- [Outland](https://outlandart.substack.com)
 - [P.W. Elverum & Sun](https://pwelverumandsun.substack.com)
 - [Pedestrian](https://pedestrian.substack.com)
 - [personal cannon](https://www.personalcanon.com)
