@@ -52,6 +52,7 @@
 - [fast writing](https://elviawilk.substack.com)
 - [Feed Me](https://www.readfeedme.com)
 - [Fermat's Library](https://www.fermatslibrary.com)
+- [First Floor](http://firstfloor.substack.com)
 - [Future of Coding Weekly](https://tinyletter.com/marianoguerra)
 - [Garbage Day](https://www.garbageday.email)
 - [gen yeet](https://genyeet.substack.com)
